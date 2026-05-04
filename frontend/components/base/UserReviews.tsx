@@ -1,5 +1,5 @@
-
 import { Card } from "@/components/ui/card";
+
 export default function UserReviews() {
     return (
         <section className="p-12 bg-gray-50">
