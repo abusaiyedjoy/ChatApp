@@ -5,4 +5,3 @@ export async function clearCache(tag: string) {
   revalidateTag(tag);
 }
 
-//home, group fetch, types
